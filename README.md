@@ -1,21 +1,18 @@
-# Hi there👋, I'm mkosakan🐟
+## Hi there, I'm [mkosakana](https://github.com/mkosakana).
 
-![top-page-image](birmingham-museums-trust-p00MgXaa6as-unsplash.jpg)  
+![top-page-image](top_01.jpg)  
 
 
  - 📫 Ping me by [Email](mailto:82388028+mkosakana@users.noreply.github.com)
- 
-
-![Age: 21](https://img.shields.io/badge/age-21-green?style=for-the-badge)
-![Type: Student](https://img.shields.io/badge/type-student-yellow?style=for-the-badge)
-![Job: Backend Engineer](https://img.shields.io/badge/work-engineer-orange?style=for-the-badge)  
-![PHP: Passing](https://img.shields.io/badge/php-passing-blueviolet?style=for-the-badge)
-![Go: Passing](https://img.shields.io/badge/go-passing-lightblue?style=for-the-badge)
-![TypeScript: Passing](https://img.shields.io/badge/typescript-passing-blue?style=for-the-badge)
-![Vue: Passing](https://img.shields.io/badge/vue-passing-lightgreen?style=for-the-badge)
 
 
-## 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mkosakana&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mkosakana&theme=tokyonight" />
+</p>
+
+
+<hr>
 
 [![](https://img.shields.io/static/v1?label=&message=Github&color=171515&logo=github)](https://github.com/mkosakana)
 [![](https://img.shields.io/static/v1?label=&message=Zenn&color=ffffff&logo=zenn)](https://zenn.dev/mkosakana)
