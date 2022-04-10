@@ -1,6 +1,6 @@
 # Hi there, I'm [mkosakana](https://github.com/mkosakana).
 
-![top-page-image](monica-garniga-XClNDg9Z9Ag-unsplash.jpg)  
+![top-page-image](e30bf6de-608d-40e5-a5b9-b24806db00c2_.jpg)  
 
 
  - 📫 Ping me by [Email](mailto:82388028+mkosakana@users.noreply.github.com)
