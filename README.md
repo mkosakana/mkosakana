@@ -1,4 +1,4 @@
-## Hi there, I'm [mkosakana](https://github.com/mkosakana).
+# Hi there, I'm [mkosakana](https://github.com/mkosakana).
 
 ![top-page-image](top_01.jpg)  
 
