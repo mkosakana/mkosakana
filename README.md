@@ -1,16 +1,19 @@
 # Hi there, I'm [mkosakana](https://github.com/mkosakana).
 
-![top-page-image](e30bf6de-608d-40e5-a5b9-b24806db00c2_.jpg)  
-
-
- - 📫 Ping me by [Email](mailto:82388028+mkosakana@users.noreply.github.com)
-
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mkosakana&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mkosakana&theme=tokyonight" />
+<p align="center"> 
+  <img width="100%" text-align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkosakana&theme=nord_bright">
 </p>
 
+- Go ✅
+- TypeScript / JavaScript ✅
+- React ✅
+- Vue ✅
+- AWS ✅
+- Terraform ✅
+
+<br>
+
+- 📫 Ping me by [Email](mailto:82388028+mkosakana@users.noreply.github.com)
 
 <hr>
 
