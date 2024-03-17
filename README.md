@@ -1,8 +1,7 @@
 # Hi there, I'm [mkosakana](https://github.com/mkosakana).
 
-<p align="center"> 
-  <img width="100%" text-align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkosakana&theme=nord_bright">
-</p>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkosakana&theme=nord_bright">
+
 
 - Go ✅
 - TypeScript / JavaScript ✅
@@ -13,7 +12,7 @@
 
 <br>
 
-- 📫 Ping me by [Email](mailto:82388028+mkosakana@users.noreply.github.com)
+📫 Ping me by [Email](mailto:82388028+mkosakana@users.noreply.github.com)
 
 <hr>
 
