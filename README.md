@@ -1,9 +1,10 @@
 # Hi there, I'm [mkosakana](https://github.com/mkosakana).
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkosakana&theme=nord_bright">
+![header](header.png)
 
 
 - Go ✅
+- PHP ✅
 - TypeScript / JavaScript ✅
 - React ✅
 - Vue ✅
