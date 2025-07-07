@@ -5,10 +5,8 @@
 📫 Ping me by [Email](mailto:82388028+mkosakana@users.noreply.github.com)
 
 - Go ✅
-- PHP ✅
-- TypeScript / JavaScript ✅
+- TS / JS ✅
 - React ✅
-- Vue ✅
 - AWS ✅
 - Terraform ✅
 
