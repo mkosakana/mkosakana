@@ -6,7 +6,7 @@
 
 - Go ✅
 - TS / JS ✅
-- React ✅
+- Flutter ✅
 - AWS ✅
 - Terraform ✅
 
